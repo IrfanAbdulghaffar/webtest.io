@@ -1,0 +1,123 @@
+{
+  "customers": [
+    {
+      "id": "1000",
+      "baseUrl": "https://dev.mps.sa24.de/api",
+      "customerName": "HSM media systeme",
+      "secondaryName": "MPS DEV",
+      "impress": "HSM media systeme GmbH & Co KG\nBüro B67\nBrandenberg 67\n45478 Mülheim an der Ruhr\n\nTelefon +49 (0) 208/ 7410777\nTelefax +49 (0) 208/ 7410779\n\nE-Mail: info@media-systeme.de"
+    },
+    {
+      "id": "1111",
+      "baseUrl": "https://api.dev.hsm.mps.team",
+      "customerName": "HSM media systeme",
+      "secondaryName": "MPS DEV 2024",
+      "impress": "HSM media systeme GmbH & Co KG\nBüro B67\nBrandenberg 67\n45478 Mülheim an der Ruhr\n\nTelefon +49 (0) 208/ 7410777\nTelefax +49 (0) 208/ 7410779\n\nE-Mail: info@media-systeme.de"
+    },
+    {
+      "id": "2201",
+      "baseUrl": "https://dev.mpszw.enermess-services.de/api",
+      "customerName": "Energie Mess- und Servicedienste GmbH",
+      "secondaryName": "TEST MPS-Service",
+      "impress": "Energie Mess- und Servicedienste GmbH\nFriedenstraße 16\n39112 Magdeburg\n\nTelefon +49 (0) 391/ 587 31 00\nTelefax +49 (0) 391/ 587 31 11\n\nE-Mail: info@enermess.de"
+    },
+    {
+      "id": "2301",
+      "baseUrl": "https://dev.mps.enermess-services.de/api",
+      "customerName": "Energie Mess- und Servicedienste GmbH",
+      "secondaryName": "TEST MPS-MRU",
+      "impress": "Energie Mess- und Servicedienste GmbH\nFriedenstraße 16\n39112 Magdeburg\n\nTelefon +49 (0) 391/ 587 31 00\nTelefax +49 (0) 391/ 587 31 11\n\nE-Mail: info@enermess.de"
+    },
+    {
+      "id": "2200",
+      "baseUrl": "https://mpszw.enermess-services.de/api",
+      "customerName": "Energie Mess- und Servicedienste GmbH",
+      "secondaryName": "MPS-Service",
+      "impress": "Energie Mess- und Servicedienste GmbH\nFriedenstraße 16\n39112 Magdeburg\n\nTelefon +49 (0) 391/ 587 31 00\nTelefax +49 (0) 391/ 587 31 11\n\nE-Mail: info@enermess.de"
+    },
+    {
+      "id": "2300",
+      "baseUrl": "https://mps.enermess-services.de/api",
+      "customerName": "Energie Mess- und Servicedienste GmbH",
+      "secondaryName": "MPS-MRU",
+      "impress": "Energie Mess- und Servicedienste GmbH\nFriedenstraße 16\n39112 Magdeburg\n\nTelefon +49 (0) 391/ 587 31 00\nTelefax +49 (0) 391/ 587 31 11\n\nE-Mail: info@enermess.de"
+    },
+    {
+      "id": "3322",
+      "baseUrl": "https://mps.u-serv.de/api",
+      "customerName": "ELTEL Networks GmbH",
+      "secondaryName": "MPS-ZW",
+      "impress": "ELTEL Networks GmbH\nu-serv\nWanner Str. 30\n45661 Recklinghausen\n\nTelefon: +49 (0) 2361 49792-0\nTelefax: +49 (0) 2361 49792-999\n\nE-Mail: info@u-serv.de"
+    },
+    {
+      "id": "3344",
+      "baseUrl": "https://mpslhgas.u-serv.de/api",
+      "customerName": "ELTEL Networks GmbH",
+      "secondaryName": "MPS-MRU",
+      "impress": "ELTEL Networks GmbH\nu-serv\nWanner Str. 30\n45661 Recklinghausen\n\nTelefon: +49 (0) 2361 49792-0\nTelefax: +49 (0) 2361 49792-999\n\nE-Mail: info@u-serv.de"
+    },
+    {
+      "id": "4422",
+      "baseUrl": "https://mps.lpr-services.de/api",
+      "customerName": "LPR Energy GmbH",
+      "secondaryName": "MPS-Services",
+      "impress": "LPR Energy GmbH\nHeerdterbuschstraße 1-3\n41460 Neuss\n\nTelefon: +49 (0) 2131 1226 50\n\nE-Mail: info@lpr.energy"
+    },
+    {
+      "id": "4433",
+      "baseUrl": "https://mps.energy-ms.de/api",
+      "customerName": "Gatter 3 EMS GmbH",
+      "secondaryName": "MPS-Services",
+      "impress": "Gatter 3 EMS GmbH\nHoffeldstr. 104\n40235 Düsseldorf\n\nTelefon: 02301 918890\n\nE-Mail: info@gatter3-technik.com"
+    },
+    {
+      "id": "3355",
+      "baseUrl": "https://fi.eltel.mps.team/api",
+      "customerName": "ELTEL Networks GmbH",
+      "secondaryName": "MPS-Finland",
+      "impress": "ELTEL Networks GmbH\nu-serv\nWanner Str. 30\n45661 Recklinghausen\n\nTelefon: +49 (0) 2361 49792-0\nTelefax: +49 (0) 2361 49792-999\n\nE-Mail: info@u-serv.de"
+    },
+    {
+      "id": "3366",
+      "baseUrl": "https://se.eltel.mps.team/api",
+      "customerName": "ELTEL Networks GmbH",
+      "secondaryName": "MPS-Sweden",
+      "impress": "Eltel Networks A/S\nu-serv\nWanner Str. 30\n45661 Recklinghausen\n\nTelefon: +49 (0) 2361 49792-0\nTelefax: +49 (0) 2361 49792-999\n\nE-Mail: info@u-serv.de"
+    },
+    {
+      "id": "3377",
+      "baseUrl": "https://dk.eltel.mps.team/api",
+      "customerName": "Eltel Networks A/S",
+      "secondaryName": "MPS-Denmark",
+      "impress": "Eltel Networks A/S\nDK\nHørkær 3\nDK-2730 Herlev\n\nphone: +45 88 13 50 00\n\nE-Mail: info.dk@eltelnetworks.com"
+    },
+    {
+      "id": "3388",
+      "baseUrl": "https://no.eltel.mps.team/api",
+      "customerName": "ELTEL Networks GmbH",
+      "secondaryName": "MPS-Norway",
+      "impress": "ELTEL Networks GmbH\nu-serv\nWanner Str. 30\n45661 Recklinghausen\n\nTelefon: +49 (0) 2361 49792-0\nTelefax: +49 (0) 2361 49792-999\n\nE-Mail: info@u-serv.de"
+    },
+    {
+      "id": "3399",
+      "baseUrl": "https://api.dk.eltel.mps.team",
+      "customerName": "Eltel Networks A/S",
+      "secondaryName": "MPS-Denmark",
+      "impress": "Eltel Networks A/S\nDK\nHørkær 3\nDK-2730 Herlev\n\nphone: +45 88 13 50 00\n\nE-Mail: info.dk@eltelnetworks.com"
+    },
+    {
+      "id": "6622",
+      "baseUrl": "https://api.certec.mps.team",
+      "customerName": "certec GmbH",
+      "secondaryName": "MPS",
+      "impress": "certec GmbH\nDUS\nLohauser Dorfstraße 53\n40474 Düsseldorf\n\nTelefon: 02173 – 99 99 40\n\nE-Mail: info@cer-tec.de"
+    },
+    {
+      "id": "6655",
+      "baseUrl": "https://api.da.mps.team",
+      "customerName": "Dino Arslanovic",
+      "secondaryName": "MPS",
+      "impress": "Dino Arslanovic\nSanitär und Heizungsbaumeister\nZöllnerstr. 7\n51491 Overath\n\nTelefon: 02204 / 96 74 98-3\n\nE-Mail: info@arslanovic.de"
+    }
+  ]
+}
